@@ -13,9 +13,9 @@ computation of the sum and carry bits are done using the following relations:
 Some more gate combinations (X[NOT], H[Hadamard] & CX[CNOT]) were also appended before the full adder circuit to initialize the qubit states (A and B) to that of the test cases (some were superimposed, some were pure)
 
 ![](https://hackmd.io/_uploads/SyfDb1Xvn.png)  
-![](https://hackmd.io/_uploads/SyfDb1Xvn.png)  
-![](https://hackmd.io/_uploads/SyfDb1Xvn.png)  
-![](https://hackmd.io/_uploads/SyfDb1Xvn.png)  
+![](https://hackmd.io/_uploads/r19wZ17wh.png)  
+![](https://hackmd.io/_uploads/BJVOZkQD2.png)  
+![](https://hackmd.io/_uploads/rJZvMyXw3.png)  
 
 Measurements were taken, and the probability of output states was measured as well a histogram plot was drawn for the measurements using Quantum Simulator (QASM)
 
